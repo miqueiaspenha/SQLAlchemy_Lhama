@@ -1,0 +1,487 @@
+[
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "DeclarativeBase",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "DeclarativeBase",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "infra.configs.base",
+        "description": "infra.configs.base",
+        "isExtraImport": true,
+        "detail": "infra.configs.base",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "infra.configs.base",
+        "description": "infra.configs.base",
+        "isExtraImport": true,
+        "detail": "infra.configs.base",
+        "documentation": {}
+    },
+    {
+        "label": "DBConnectionHandle",
+        "importPath": "infra.configs.connection",
+        "description": "infra.configs.connection",
+        "isExtraImport": true,
+        "detail": "infra.configs.connection",
+        "documentation": {}
+    },
+    {
+        "label": "DBConnectionHandle",
+        "importPath": "infra.configs.connection",
+        "description": "infra.configs.connection",
+        "isExtraImport": true,
+        "detail": "infra.configs.connection",
+        "documentation": {}
+    },
+    {
+        "label": "Atores",
+        "importPath": "infra.entities.atores",
+        "description": "infra.entities.atores",
+        "isExtraImport": true,
+        "detail": "infra.entities.atores",
+        "documentation": {}
+    },
+    {
+        "label": "Filmes",
+        "importPath": "infra.entities.filmes",
+        "description": "infra.entities.filmes",
+        "isExtraImport": true,
+        "detail": "infra.entities.filmes",
+        "documentation": {}
+    },
+    {
+        "label": "Filmes",
+        "importPath": "infra.entities.filmes",
+        "description": "infra.entities.filmes",
+        "isExtraImport": true,
+        "detail": "infra.entities.filmes",
+        "documentation": {}
+    },
+    {
+        "label": "NoResultFound",
+        "importPath": "sqlalchemy.orm.exc",
+        "description": "sqlalchemy.orm.exc",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm.exc",
+        "documentation": {}
+    },
+    {
+        "label": "AtoresRepository",
+        "importPath": "infra.repository.atores_repository",
+        "description": "infra.repository.atores_repository",
+        "isExtraImport": true,
+        "detail": "infra.repository.atores_repository",
+        "documentation": {}
+    },
+    {
+        "label": "FilmesRepository",
+        "importPath": "infra.repository.filmes_repository",
+        "description": "infra.repository.filmes_repository",
+        "isExtraImport": true,
+        "detail": "infra.repository.filmes_repository",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.11/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.11/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.11/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.11/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.11/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"../lib/python3.11/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "env.bin.activate_this",
+        "description": "env.bin.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "env.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 6,
+        "importPath": "infra.configs.base",
+        "description": "infra.configs.base",
+        "peekOfCode": "class Base(DeclarativeBase):\n    pass",
+        "detail": "infra.configs.base",
+        "documentation": {}
+    },
+    {
+        "label": "DBConnectionHandle",
+        "kind": 6,
+        "importPath": "infra.configs.connection",
+        "description": "infra.configs.connection",
+        "peekOfCode": "class DBConnectionHandle:\n    def __init__(self) -> None:\n        self.__connection_string = 'mysql+pymysql://root:example@localhost:3306/cinema'\n        self.__engine = self.__create_database_engine()\n        self.session = None\n    def __create_database_engine(self):\n        return create_engine(self.__connection_string)\n    def get_engine(self):\n        return self.__engine\n    def __enter__(self):",
+        "detail": "infra.configs.connection",
+        "documentation": {}
+    },
+    {
+        "label": "Atores",
+        "kind": 6,
+        "importPath": "infra.entities.atores",
+        "description": "infra.entities.atores",
+        "peekOfCode": "class Atores(Base):\n    __tablename__ = \"atores\"\n    id = Column(Integer, primary_key=True)\n    nome = Column(String, nullable=True)\n    titulo_filme = Column(String, ForeignKey(\"filmes.titulo\"))\n    def __repr__(self):\n        return f\"Atores [nome={self.nome}, filme={self.titulo_filme}]\"",
+        "detail": "infra.entities.atores",
+        "documentation": {}
+    },
+    {
+        "label": "Filmes",
+        "kind": 6,
+        "importPath": "infra.entities.filmes",
+        "description": "infra.entities.filmes",
+        "peekOfCode": "class Filmes(Base):\n    __tablename__ = \"filmes\"\n    titulo = Column(String, primary_key=True)\n    genero = Column(String, nullable=False)\n    ano = Column(Integer, nullable=False)\n    atores = relationship(\"Atores\", backref=\"atores\", lazy=\"subquery\")\n    def __repr__(self):\n        return f\"Filme [(titulo={self.titulo}, ano={self.ano})]\"",
+        "detail": "infra.entities.filmes",
+        "documentation": {}
+    },
+    {
+        "label": "AtoresRepository",
+        "kind": 6,
+        "importPath": "infra.repository.atores_repository",
+        "description": "infra.repository.atores_repository",
+        "peekOfCode": "class AtoresRepository:\n    def select(self):\n        with DBConnectionHandle() as db:\n            data = (\n                db.session.query(Atores)\n                .join(Filmes, Filmes.titulo == Atores.titulo_filme)\n                .with_entities(Atores.nome, Filmes.genero, Filmes.titulo)\n                .all()\n            )\n            return data",
+        "detail": "infra.repository.atores_repository",
+        "documentation": {}
+    },
+    {
+        "label": "FilmesRepository",
+        "kind": 6,
+        "importPath": "infra.repository.filmes_repository",
+        "description": "infra.repository.filmes_repository",
+        "peekOfCode": "class FilmesRepository:\n    def select(self):\n        with DBConnectionHandle() as db:\n            data = db.session.query(Filmes).all()\n            return data\n    def select_drama_filmes(self):\n        with DBConnectionHandle() as db:\n            try:\n                data = db.session.query(Filmes).filter(Filmes.genero == \"Drama\").one()\n                return data",
+        "detail": "infra.repository.filmes_repository",
+        "documentation": {}
+    },
+    {
+        "label": "OlaMundo",
+        "kind": 6,
+        "importPath": "demo",
+        "description": "demo",
+        "peekOfCode": "class OlaMundo:\n    def __enter__(self):\n        print(\"Entrando\")\n    def __exit__(self, exc_type, exc_value, traceback):\n        print('saindo')\nwith OlaMundo() as ola:\n    print('no meio')",
+        "detail": "demo",
+        "documentation": {}
+    },
+    {
+        "label": "repo",
+        "kind": 5,
+        "importPath": "run",
+        "description": "run",
+        "peekOfCode": "repo = AtoresRepository()\nresponse = repo.select()\n# print(response)\nrepo2 = FilmesRepository()\nresponse2 = repo2.select()\nresponse2_1 = repo2.select_drama_filmes()\n# filme = response2[0]\n# print(filme.atores)\n# print(filme.titulo)\nprint(response2_1)",
+        "detail": "run",
+        "documentation": {}
+    },
+    {
+        "label": "response",
+        "kind": 5,
+        "importPath": "run",
+        "description": "run",
+        "peekOfCode": "response = repo.select()\n# print(response)\nrepo2 = FilmesRepository()\nresponse2 = repo2.select()\nresponse2_1 = repo2.select_drama_filmes()\n# filme = response2[0]\n# print(filme.atores)\n# print(filme.titulo)\nprint(response2_1)",
+        "detail": "run",
+        "documentation": {}
+    },
+    {
+        "label": "repo2",
+        "kind": 5,
+        "importPath": "run",
+        "description": "run",
+        "peekOfCode": "repo2 = FilmesRepository()\nresponse2 = repo2.select()\nresponse2_1 = repo2.select_drama_filmes()\n# filme = response2[0]\n# print(filme.atores)\n# print(filme.titulo)\nprint(response2_1)",
+        "detail": "run",
+        "documentation": {}
+    },
+    {
+        "label": "response2",
+        "kind": 5,
+        "importPath": "run",
+        "description": "run",
+        "peekOfCode": "response2 = repo2.select()\nresponse2_1 = repo2.select_drama_filmes()\n# filme = response2[0]\n# print(filme.atores)\n# print(filme.titulo)\nprint(response2_1)",
+        "detail": "run",
+        "documentation": {}
+    },
+    {
+        "label": "response2_1",
+        "kind": 5,
+        "importPath": "run",
+        "description": "run",
+        "peekOfCode": "response2_1 = repo2.select_drama_filmes()\n# filme = response2[0]\n# print(filme.atores)\n# print(filme.titulo)\nprint(response2_1)",
+        "detail": "run",
+        "documentation": {}
+    },
+    {
+        "label": "Filmes",
+        "kind": 6,
+        "importPath": "sqlalchemy_raw",
+        "description": "sqlalchemy_raw",
+        "peekOfCode": "class Filmes(Base):\n    __tablename__ = \"filmes\"\n    titulo = Column(String, primary_key=True)\n    genero = Column(String, nullable=False)\n    ano = Column(Integer, nullable=False)\n    def __repr__(self):\n        return f\"Filme [(titulo={self.titulo}, ano={self.ano})]\"\n#SQL\n#Insert\n# data_insert = Filmes(titulo=\"Dracula\", genero=\"Drama\", ano=1996)",
+        "detail": "sqlalchemy_raw",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "sqlalchemy_raw",
+        "description": "sqlalchemy_raw",
+        "peekOfCode": "engine = create_engine('mysql+pymysql://root:example@localhost:3306/cinema')\nSession = sessionmaker(bind=engine)\nsession = Session()\n#Entidades\nclass Filmes(Base):\n    __tablename__ = \"filmes\"\n    titulo = Column(String, primary_key=True)\n    genero = Column(String, nullable=False)\n    ano = Column(Integer, nullable=False)\n    def __repr__(self):",
+        "detail": "sqlalchemy_raw",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "kind": 5,
+        "importPath": "sqlalchemy_raw",
+        "description": "sqlalchemy_raw",
+        "peekOfCode": "Session = sessionmaker(bind=engine)\nsession = Session()\n#Entidades\nclass Filmes(Base):\n    __tablename__ = \"filmes\"\n    titulo = Column(String, primary_key=True)\n    genero = Column(String, nullable=False)\n    ano = Column(Integer, nullable=False)\n    def __repr__(self):\n        return f\"Filme [(titulo={self.titulo}, ano={self.ano})]\"",
+        "detail": "sqlalchemy_raw",
+        "documentation": {}
+    },
+    {
+        "label": "session",
+        "kind": 5,
+        "importPath": "sqlalchemy_raw",
+        "description": "sqlalchemy_raw",
+        "peekOfCode": "session = Session()\n#Entidades\nclass Filmes(Base):\n    __tablename__ = \"filmes\"\n    titulo = Column(String, primary_key=True)\n    genero = Column(String, nullable=False)\n    ano = Column(Integer, nullable=False)\n    def __repr__(self):\n        return f\"Filme [(titulo={self.titulo}, ano={self.ano})]\"\n#SQL",
+        "detail": "sqlalchemy_raw",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "sqlalchemy_raw",
+        "description": "sqlalchemy_raw",
+        "peekOfCode": "data = session.query(Filmes).all()\nprint(data)\nprint(data[0].titulo)\nsession.close()",
+        "detail": "sqlalchemy_raw",
+        "documentation": {}
+    }
+]
